@@ -7,8 +7,8 @@ Project Name | Basic Descruption | Deadline
 ------------|-------------------|---------
 **Ska Dating Sim** | A dating sim but you're recruiting for a ska band. | 10/10/21
 **Butterzone** | Checks an IMDB API for a film's star rating | 27/08/21
-**Wrestling With Saddos Soundboard** | GUI Interface for sound cues of Wrestling With Saddos. Built in Tkinter. Similar to [Valhalla Soundboard](https://github.com/Thomas-m-Butterworth/valhalla_soundboard) in principle. |  01/09/21
+**Wrestling With Saddos Soundboard** | GUI Interface for sound cues of Wrestling With Saddos. Built in Tkinter. Similar to [Valhalla Soundboard](https://github.com/Thomas-m-Butterworth/valhalla_soundboard) in principle, but with a prettier interface that's easy to use for anyone teching the show. Include visual cues as hidden notes. |  01/09/21
 **Soundboard Hub** | An app for mobile & desktop that hosts all the soundboards NMitB creates for shows. Library interface. | 20/09/21
-**NMitB Website** | Fuly functioning website for (No) Money in the Bank | 24/09/21
+[**NMitB Website**](https://thomas-m-butterworth.github.io/nomoneyinthebank_website/) | Fully functioning website for (No) Money in the Bank. HTML/CSS version built during the a 3 Week CodeNation Bootcamp. Now looking to improve upon it with a pythn based framework, and improve the overall look of it on all devices. Will use what I have an build it on a Django framework. More to test myself than anything. I'm most anxious about how to use the backend to input blog entries. Especially since I'm very well acquainted with Wordpress's interface. However, that's all part of the fun of forcing myself to do this. | 24/09/21
 **Event Splash Page** | Ticket portal for NYE event | 01/11/21
 [**Tasks for Thom**](https://github.com/Thomas-m-Butterworth/taskforthom) | Challenges set by [Nathan Lawrence](https://github.com/OhDearMoshe) to get me up to snuff | Ongoing
